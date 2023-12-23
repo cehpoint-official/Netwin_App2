@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\gaura\\OneDrive\\Desktop\\battlemaina\\app\\app-sourcecode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gaura\\.gradle\\caches\\transforms-3\\a3115c87fca168c2c2b15d9fc6e5f705\\transformed\\jetified-android-sdk-3.4.0\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endLines": "2,5",
+                        "endColumns": "48,12",
+                        "endOffsets": "99,231"
+                    }
+                }
+            ]
+        }
+    ]
+}
